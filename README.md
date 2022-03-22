@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpazHyunJun
+- 👋 Hi, I’m spazzhyunjun
 - 👀 I’m interested in sever engineering and preventing people from hackers. 
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT C++
 - 💞️ I’m looking to collaborate on Web Searching Engine Inhencement Project.
